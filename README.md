@@ -67,26 +67,6 @@ open_to    : Collaborations · Open Source · Internships
 </tr>
 </table>
 
----
-
-## 🏆 Achievements at a Glance
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details | 📅 Year |
-|:---|:---|:---:|
-| 🎖️ **Patent Holder** | EV Charging Optimization via Geolocation — No. `202531058380` | 2025 |
-| 🏅 **SIH 2025 — College Level Qualifier** | Led 6-member team through Internal Hackathon round as **Team Leader** | 2025 |
-| 💼 **Infosys Springboard Intern** | Java Full Stack Virtual Internship 6.0 — PharmaTrack Pro | 2026 |
-| 💼 **Ardent Computech Intern** | Backend dev on Group Chat Web App — Spring Boot | 2025 |
-| 🚀 **5+ Production Systems** | ERP · POS · Inventory · IoT · Journal shipped and deployed | 2024–26 |
-| 🎓 **Academic Excellence** | MCA: **9.02 / 10** · BCA: **8.76 / 10** | 2024 |
-| ☕ **Java Certified** | Infosys Springboard Java Foundation · HackerRank Java | 2025 |
-| 🖥️ **HP Enterprise Simulation** | Software Engineering Job Simulation — Java Spring Boot | 2025 |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
