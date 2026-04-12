@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:0f1f3d,80:1a0a3d,100:0d1117&height=210&section=header&text=Romen%20Halder&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Junior%20R%26D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&descSize=15&descAlignY=62&descColor=60a5fa&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:0f1f3d,80:1a0a3d,100:0d1117&height=210&section=header&text=Romen%20Halder&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Junior%20R%26D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&descSize=15&descAlignY=62&descColor=60a5fa&animation=fadeIn](https://drive.google.com/file/d/1rHCjcT9cf1dmW2m_SOdI6sGMNGXmcw0q/view?usp=sharing)" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Building+enterprise+systems+with+Java+%26+Spring+Boot+%F0%9F%9A%80;SIH+2025+College+Level+Qualifier+%F0%9F%8F%85+%7C+Patent+Holder+%F0%9F%8E%96%EF%B8%8F;Full+Stack+%7C+IoT+%7C+Cloud+Native+%7C+Learning+DevOps+%F0%9F%90%B3" />
