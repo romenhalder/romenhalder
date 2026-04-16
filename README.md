@@ -1,30 +1,30 @@
 <div align="center">
 
-<!-- ANIMATED CODE BRACKETS BACKGROUND -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0a2e&height=300&width=1200&text=%3C/%3E%20%7B%20%7D%20%5B%5D%20(%20)%20%3D%3E%20%3A%3A&fontSize=24&fontColor=e94560&animation=blink&fontAlignY=50" width="100%" style="opacity: 0.25;"/>
+<!-- BACKGROUND ANIMATION - Matrix Code Rain Effect -->
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0a0a,100:1a0a2e&amp;height=400&amp;width=1200&amp;text=⬛%20%E2%8C%A8%20%3C/%3E%20%7B%7D%20%E2%88%9E%20%3D%3E%20&amp;fontSize=28&amp;fontColor=e94560&amp;animation=blinking" width="100%" style="opacity: 0.3;"/>
 
-<!-- ANIMATED TERMINAL PROMPT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=E94560&center=true&vCenter=true&width=1000&height=30&lines=$+npm+run+dev;>+Building+portfolio...;>+Deploying+successful!;$+git+commit+-m+%22awesome+profile%22" width="100%" style="opacity: 0.4; margin-bottom: -40px;"/>
+<!-- ANIMATED BINARY BACKGROUND (via GIF) -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611d9yf3k4z4q3x2s1w5v6u7t8y9i0o1p2a3s4d5f6g7h8j9k&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="200" style="object-fit: cover; opacity: 0.15; position: absolute; top: 0; left: 0; z-index: -1;"/>
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&height=210&section=header&text=Romen%20Halder&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Junior%20R%26D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&descSize=15&descAlignY=62&descColor=e94560&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&amp;height=210&amp;section=header&amp;text=Romen%20Halder&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Junior%20R%26amp;D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&amp;descSize=15&amp;descAlignY=62&amp;descColor=e94560&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=E94560&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Building+enterprise+systems+with+Java+%26+Spring+Boot+%F0%9F%9A%80;SIH+2025+College+Level+Qualifier+%F0%9F%8F%85+%7C+Patent+Holder+%F0%9F%8E%96%EF%B8%8F;Full+Stack+%7C+IoT+%7C+Cloud+Native+%7C+Learning+DevOps+%F0%9F%90%B3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;pause=1000&amp;color=E94560&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=40&amp;lines=Building+enterprise+systems+with+Java+%26+Spring+Boot+%F0%9F%9A%80;SIH+2025+College+Level+Qualifier+%F0%9F%8F%85+%7C+Patent+Holder+%F0%9F%8E%96%EF%B8%8F;Full+Stack+%7C+IoT+%7C+Cloud+Native+%7C+Learning+DevOps+%F0%9F%90%B3" />
 
 <br/>
 
 <!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romen-halder)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romenhalder)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romenromen2002@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/certificates/23c8a05da7bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/romen-halder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/romenhalder)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:romenromen2002@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black)](https://www.hackerrank.com/certificates/23c8a05da7bb)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&color=e94560&style=flat-square&label=Profile+Views)](https://github.com/romenhalder)
-[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&color=16213e&label=Followers&logo=github&logoColor=white)](https://github.com/romenhalder?tab=followers)
-![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&logo=handshake&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&amp;color=e94560&amp;style=flat-square&amp;label=Profile+Views)](https://github.com/romenhalder)
+[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&amp;color=16213e&amp;label=Followers&amp;logo=github&amp;logoColor=white)](https://github.com/romenhalder?tab=followers)
+![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&amp;logo=handshake&amp;logoColor=white)
 
 </div>
 ## 👨‍💻 About Me
