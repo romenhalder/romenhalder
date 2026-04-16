@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- BACKGROUND ANIMATION - Matrix Code Rain Effect -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0a2e&height=400&width=1200&text=⬛%20%E2%8C%A8%20%3C/%3E%20%7B%7D%20%E2%88%9E%20%3D%3E%20&fontSize=28&fontColor=e94560&animation=blinking" width="100%" style="opacity: 0.3;"/>
+<!-- ANIMATED CODE BRACKETS BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a0a2e&height=300&width=1200&text=%3C/%3E%20%7B%20%7D%20%5B%5D%20(%20)%20%3D%3E%20%3A%3A&fontSize=24&fontColor=e94560&animation=blink&fontAlignY=50" width="100%" style="opacity: 0.25;"/>
 
-<!-- ANIMATED BINARY BACKGROUND (via GIF) -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611d9yf3k4z4q3x2s1w5v6u7t8y9i0o1p2a3s4d5f6g7h8j9k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="200" style="object-fit: cover; opacity: 0.15; position: absolute; top: 0; left: 0; z-index: -1;"/>
+<!-- ANIMATED TERMINAL PROMPT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=E94560&center=true&vCenter=true&width=1000&height=30&lines=$+npm+run+dev;>+Building+portfolio...;>+Deploying+successful!;$+git+commit+-m+%22awesome+profile%22" width="100%" style="opacity: 0.4; margin-bottom: -40px;"/>
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&height=210&section=header&text=Romen%20Halder&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Junior%20R%26D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&descSize=15&descAlignY=62&descColor=e94560&animation=fadeIn" width="100%"/>
