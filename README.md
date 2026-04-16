@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- BACKGROUND ANIMATION - Matrix Code Rain Effect -->
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0a0a0a,100:1a0a2e&amp;height=400&amp;width=1200&amp;text=⬛%20%E2%8C%A8%20%3C/%3E%20%7B%7D%20%E2%88%9E%20%3D%3E%20&amp;fontSize=28&amp;fontColor=e94560&amp;animation=blinking" width="100%" style="opacity: 0.3;"/>
-
 <!-- ANIMATED BINARY BACKGROUND (via GIF) -->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611d9yf3k4z4q3x2s1w5v6u7t8y9i0o1p2a3s4d5f6g7h8j9k&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="200" style="object-fit: cover; opacity: 0.15; position: absolute; top: 0; left: 0; z-index: -1;"/>
 
