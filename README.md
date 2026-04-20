@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED BINARY BACKGROUND (via GIF) -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611d9yf3k4z4q3x2s1w5v6u7t8y9i0o1p2a3s4d5f6g7h8j9k&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" width="100%" height="200" style="object-fit: cover; opacity: 0.15; position: absolute; top: 0; left: 0; z-index: -1;"/>
+
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&amp;height=210&amp;section=header&amp;text=Romen%20Halder&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Junior%20R%26amp;D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&amp;descSize=15&amp;descAlignY=62&amp;descColor=e94560&amp;animation=fadeIn" width="100%"/>
