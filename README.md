@@ -145,20 +145,7 @@ open_to    : Collaborations · Open Source · Internships
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-[![PharmaTrack Pro](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=pharmatrack-pro&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/pharmatrack-pro)
-[![Bakery Inventory](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=bakery-inventory-management&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/bakery-inventory-management)
-[![Civic Issue Reporting](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=civic-issue-reporting&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/civic-issue-reporting)
-[![Expense Splitter](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=expense_splitter&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/expense_splitter)
-[![Journal Web App](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=journal_web_app&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/journal_web_app)
-[![College ERP](https://github-readme-stats.vercel.app/api/pin/?username=romenhalder&repo=College_erp_Group_Project&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=1d4ed8)](https://github.com/romenhalder/College_erp_Group_Project)
-
-</div>
-
----
 
 ## 💼 Experience & Internships
 
