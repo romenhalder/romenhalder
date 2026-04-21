@@ -216,73 +216,11 @@ YAML         ░░░░░░░░░░░░░░░░░░░░░░�
 </picture>
 </div>
 
-> 🔧 **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo — see setup guide below.
+> 
 
 ---
 
-## ⚙️ Auto-Update Setup Guide
 
-> Copy these workflow files into your `romenhalder/romenhalder` profile repository to keep stats live.
-
-<details>
-<summary><b>🐍 Snake Animation — <code>.github/workflows/snake.yml</code></b></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: romenhalder
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<details>
-<summary><b>⏱️ WakaTime Stats — <code>.github/workflows/waka.yml</code></b></summary>
-
-```yaml
-name: Update WakaTime Stats
-
-on:
-  schedule:
-    - cron: "30 18 * * *"  # runs daily
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          KEYPHRASE: "Weekly Development Breakdown"
-          BLOCKS: "█▓▒░"
-```
-
-> Add your `WAKATIME_API_KEY` in GitHub → Settings → Secrets → Actions.
-
-</details>
-
----
 
 ## 💡 Coding Philosophy
 
