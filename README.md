@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/romen-halder)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/romenhalder)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:romenromen2002@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black)](https://www.hackerrank.com/certificates/23c8a05da7bb)
 
 <br/>
 
