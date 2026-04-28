@@ -29,7 +29,7 @@
 <tr>
 <td valign="top" width="58%">
 
-Hi! I'm **Romen Halder**, a Junior R&D Engineer and Java Full Stack Developer from **Kolkata, India 🇮🇳**, currently working at **Security Engineers Pvt. Ltd.** on IoT-based enterprise security monitoring using ThingsBoard.
+Hi! I'm **Romen Halder**, a Junior R&D Engineer and Java Full Stack Developer from **Kolkata, India 🇮🇳**, currently working at **SEPLE NovaEdge Pvt. Ltd.** on IoT-based enterprise security monitoring using ThingsBoard.
 
 I hold a **Patent** for an EV Charging Optimization System, qualified the **Smart India Hackathon 2025** at college level as **Team Leader**, and have shipped 5+ production-grade applications across IoT, inventory, ERP, and SaaS domains.
 
