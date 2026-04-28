@@ -23,7 +23,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&amp;logo=handshake&amp;logoColor=white)
 
 </div>
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
