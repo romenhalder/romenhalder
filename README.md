@@ -18,7 +18,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&color=e94560&style=flat-square&label=Profile+Views)](https://github.com/romenhalder)
-[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&color=16213e&label=Followers&logo=github&logoColor=white)](https://github.com/romenhalder?tab=followers)
+[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&color=16213e&label=Followers&logo=github&logoColor=white)]
 
 
 </div>
