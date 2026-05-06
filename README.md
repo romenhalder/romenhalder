@@ -3,23 +3,23 @@
 
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&amp;height=210&amp;section=header&amp;text=Romen%20Halder&amp;fontSize=62&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Junior%20R%26amp;D%20Engineer%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Patent%20Holder&amp;descSize=15&amp;descAlignY=62&amp;descColor=e94560&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,40:16213e,80:0f3460,100:0d1117&height=210&section=header&text=Romen%20Halder&fontSize=62&fontColor=61DAFB" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;pause=1000&amp;color=E94560&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=750&amp;height=40&amp;lines=Building+enterprise+systems+with+Java+%26+Spring+Boot+%F0%9F%9A%80;SIH+2025+College+Level+Qualifier+%F0%9F%8F%85+%7C+Patent+Holder+%F0%9F%8E%96%EF%B8%8F;Full+Stack+%7C+IoT+%7C+Cloud+Native+%7C+Learning+DevOps+%F0%9F%90%B3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=E94560&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Junior+R%26D+Engineer+%7C+Java+Full+Stack+Developer;IoT+%7C+Enterprise+SaaS+%7C+DevOps+Enthusiast;Patent+Holder+%7C+Smart+India+Hackathon+Qualifier" width="750"/>
 
 <br/>
 
 <!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/romen-halder)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/romenhalder)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:romenromen2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romen-halder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romenhalder)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romenromen2002@gmail.com)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&amp;color=e94560&amp;style=flat-square&amp;label=Profile+Views)](https://github.com/romenhalder)
-[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&amp;color=16213e&amp;label=Followers&amp;logo=github&amp;logoColor=white)](https://github.com/romenhalder?tab=followers)
-![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&amp;logo=handshake&amp;logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&color=e94560&style=flat-square&label=Profile+Views)](https://github.com/romenhalder)
+[![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&color=16213e&label=Followers&logo=github&logoColor=white)](https://github.com/romenhalder?tab=followers)
+![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&logo=handshake&logoColor=white)
 
 </div>
 👨‍💻 About Me
@@ -28,9 +28,9 @@
 <tr>
 <td valign="top" width="58%">
 
-Hi! I'm **Romen Halder**, a Junior R&D Engineer and Java Full Stack Developer from **Kolkata, India 🇮🇳**, currently working at **SEPLE NovaEdge Pvt. Ltd.** on IoT-based enterprise security monitoring using ThingsBoard.
+Hi! I'm **Romen Halder**, a Junior R&D Engineer and Java Full Stack Developer from **Kolkata, India 🇮🇳**, currently working at **SEPLE NovaEdge Pvt. Ltd.** on IoT-based enterprise security monitoring and real-time data processing with **ThingsBoard**.
 
-I hold a **Patent** for an EV Charging Optimization System, qualified the **Smart India Hackathon 2025** at college level as **Team Leader**, and have shipped 5+ production-grade applications across IoT, inventory, ERP, and SaaS domains.
+I hold a **Patent** for an EV Charging Optimization System, qualified the **Smart India Hackathon 2025** at college level as **Team Leader**, and have shipped 5+ production-grade applications across e-commerce, fintech, and pharmaceutical domains.
 
 Currently **leveling up in DevOps** — Docker, Kubernetes, CI/CD pipelines.
 
@@ -199,7 +199,7 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
 YAML         ░░░░░░░░░░░░░░░░░░░░░░░░░    ~1%  (Docker Compose, K8s manifests)
 ```
 
-> 💡 **Auto-update tip:** Connect [WakaTime](https://wakatime.com) to your IDE → enable the [waka-readme GitHub Action](https://github.com/athul/waka-readme) → this section updates automatically every day.
+> 💡 **Auto-update tip:** Connect [WakaTime](https://wakatime.com) to your IDE → enable the [waka-readme GitHub Action](https://github.com/athul/waka-readme) → this section updates automatically every week!
 
 ---
 
