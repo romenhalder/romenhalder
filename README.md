@@ -19,7 +19,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&color=e94560&style=flat-square&label=Profile+Views)](https://github.com/romenhalder)
 [![Followers](https://img.shields.io/github/followers/romenhalder?style=flat-square&color=16213e&label=Followers&logo=github&logoColor=white)](https://github.com/romenhalder?tab=followers)
-![Open to Work](https://img.shields.io/badge/Open%20To-Collaborate-22c55e?style=flat-square&logo=handshake&logoColor=white)
+
 
 </div>
 👨‍💻 About Me
