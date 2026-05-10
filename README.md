@@ -17,6 +17,7 @@
 
 <br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=romenhalder&color=e94560&style=flat-square&label=Profile+Views)](https://github.com/romenhalder)
 
 </div>
 👨‍💻 About Me
