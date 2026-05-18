@@ -28,7 +28,7 @@
 
 Hi! I'm **Romen Halder**, a Junior R&D Engineer and Java Full Stack Developer from **Kolkata, India 🇮🇳**, currently working at **SEPLE NovaEdge Pvt. Ltd.** on IoT-based enterprise security monitoring and real-time data processing with **ThingsBoard**.
 
-I hold a **Patent** for an EV Charging Optimization System, qualified the **Smart India Hackathon 2025** at college level as **Team Leader**, and have shipped 5+ production-grade applications across e-commerce, fintech, and pharmaceutical domains.
+I hold a **Patent** for an EV Charging Optimization System, qualified the **Smart India Hackathon 2025** at college  level as **Team Leader**, and have shipped 5+ production-grade applications across e-commerce, fintech, and pharmaceutical domains.
 
 Currently **leveling up in DevOps** — Docker, Kubernetes, CI/CD pipelines.
 
