@@ -121,7 +121,7 @@ open_to    : Collaborations · Open Source · Internships
 
 ## 📊 GitHub Analytics
 
-<!-- AUTO-UPDATES every time GitHub Actions runs (or on each page load via these live URLs) -->
+<!-- AUTO-UPDATES every time GitHub Actions runs(or on each page load via these live URLs) -->
 
 <div align="center">
 
